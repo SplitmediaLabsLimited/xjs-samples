@@ -1,0 +1,9 @@
+*.sublime-project
+*.sublime-workspace
+node_modules/
+plg/
+js/
+build.js
+*.xml
+index_config.html
+gulpfile.js
